@@ -1,0 +1,58 @@
+[
+    {
+        "id": 9,
+        "nome": "Fazenda Yas",
+        "area_total": 20000.0,
+        "area_plantio": 0.0,
+        "perc_preservacao": 100.0,
+        "risco": "Baixo"
+    },
+    {
+        "id": 10,
+        "nome": "yy",
+        "area_total": 200.0,
+        "area_plantio": 300.0,
+        "perc_preservacao": -50.0,
+        "risco": "Alto"
+    },
+    {
+        "id": 11,
+        "nome": "neen",
+        "area_total": 1000.0,
+        "area_plantio": 20.0,
+        "perc_preservacao": 98.0,
+        "risco": "Baixo"
+    },
+    {
+        "id": 13,
+        "nome": "fazenda yas",
+        "area_total": 10000.0,
+        "area_plantio": 10000.0,
+        "perc_preservacao": 0.0,
+        "risco": "Alto"
+    },
+    {
+        "id": 14,
+        "nome": "fazenda oi",
+        "area_total": 100.0,
+        "area_plantio": 100.0,
+        "perc_preservacao": 0.0,
+        "risco": "Alto"
+    },
+    {
+        "id": 15,
+        "nome": "oo",
+        "area_total": 10002.0,
+        "area_plantio": 20.0,
+        "perc_preservacao": 99.8,
+        "risco": "Baixo"
+    },
+    {
+        "id": 16,
+        "nome": "Deus",
+        "area_total": 20000.0,
+        "area_plantio": 122.0,
+        "perc_preservacao": 99.39,
+        "risco": "Baixo"
+    }
+]
