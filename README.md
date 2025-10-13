@@ -2,7 +2,7 @@
 🧩 Problema
 
 O agronegócio enfrenta o desafio de equilibrar expansão da produção agrícola e preservação ambiental.
-Muitos agricultores precisam plantar sem comprometer áreas de vegetação natural — o desmatamento descontrolado gera multas, perda de solo fértil e impactos ambientais graves.
+Muitos agricultores precisam plantar sem comprometer áreas de vegetação natural, o desmatamento descontrolado gera multas, perda de solo fértil e impactos ambientais graves.
 
 💡 Solução Proposta
 
