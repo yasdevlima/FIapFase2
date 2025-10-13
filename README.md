@@ -48,3 +48,9 @@ Biblioteca oracledb
 🚀 Conclusão
 
 O Sistema de Planejamento de Plantio Sustentável auxilia o produtor rural na tomada de decisão consciente, permitindo que o agronegócio cresça de forma responsável e inovadora, unindo tecnologia e sustentabilidade. 🌿
+
+Integrantes:
+
+- Gabriel Coppola
+- Marina Clara Constantino Ribeiro
+- Yasmin Kauane Silva Lima
