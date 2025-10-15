@@ -42,7 +42,7 @@ Além disso, o programa gera relatórios em JSON, permitindo o acompanhamento do
 
 ## 🌾 Benefícios
 
-- 👨‍🌾 **Agricultor:** evita multas e prejuízos mantendo a produção sustentável.  
+- 👨‍🌾 **Agricultor:** evita multas, mantém o solo fértil e garante uma produção sustentável.  
 - 🏢 **Agronegócio:** adota práticas sustentáveis e conquista certificações ambientais.  
 - 🌎 **Meio ambiente:** preserva a biodiversidade e reduz o desmatamento.
 
