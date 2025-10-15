@@ -1,7 +1,7 @@
 # FIAP - Faculdade de Informática e Administração Paulista
 
 <p align="center">
-<a href= "https://www.fiap.com.br/"><img src="assets/logo-fiap.png" alt="FIAP - Faculdade de Informática e Admnistração Paulista" border="0" width=40% height=40%></a>
+<a href= "https://www.fiap.com.br/"><img src="https://impactospositivos.com/wp-content/uploads/2024/03/FIAP-Apoiador.png" alt="FIAP - Faculdade de Informática e Admnistração Paulista" border="0" width=40% height=40%></a>
 </p>
 
 <br>
@@ -50,11 +50,12 @@ Além disso, o programa gera relatórios em JSON, permitindo o acompanhamento do
 
 ## 📁 Estrutura de pastas
 
+```text
 DESMATAMENTO/
 ├── AgroDesmatamento/
-│ ├── principal.py # Código principal do sistema
-│ └── relatorio_areas.json # Relatório gerado com dados das áreas
-└── README.md # Descrição geral do projeto
+│   ├── principal.py            # Código principal do sistema
+│   └── relatorio_areas.json    # Relatório gerado com dados das áreas
+└── README.md                   # Descrição geral do projeto
 
 
 ## 🔧 Como executar o código
