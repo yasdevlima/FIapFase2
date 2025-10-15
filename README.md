@@ -56,7 +56,7 @@ DESMATAMENTO/
 │   ├── principal.py            # Código principal do sistema
 │   └── relatorio_areas.json    # Relatório gerado com dados das áreas
 └── README.md                   # Descrição geral do projeto
-
+```
 
 ## 🔧 Como executar o código
 
