@@ -23,50 +23,52 @@
 
 ## 📜 Descrição
 
-*O Sistema de Planejamento de Plantio Sustentável foi desenvolvido para auxiliar produtores rurais no equilíbrio entre produtividade agrícola e preservação ambiental.
-O agronegócio enfrenta o desafio de expandir sua produção sem comprometer áreas de vegetação natural — o desmatamento descontrolado pode gerar multas, perda de solo fértil e danos ambientais graves.
+O Sistema de Plantio Sustentável foi desenvolvido para auxiliar produtores rurais no equilíbrio entre produtividade agrícola e preservação ambiental.  
+O agronegócio enfrenta o desafio de expandir sua produção sem comprometer áreas de vegetação natural, o desmatamento descontrolado pode gerar multas, perda de solo fértil e danos ambientais graves.
 
-Com esse sistema, o agricultor pode registrar suas áreas de plantio, calcular automaticamente o percentual de área preservada e classificar o risco de desmatamento (baixo, médio ou alto). Além disso, o programa gera relatórios em JSON, permitindo o acompanhamento dos dados de forma simples e organizada.
+Com esse sistema, o agricultor pode registrar suas áreas de plantio, calcular automaticamente o percentual de área preservada e classificar o risco de desmatamento (baixo, médio ou alto).  
+Além disso, o programa gera relatórios em JSON, permitindo o acompanhamento dos dados de forma simples e organizada.
 
-💡 Funcionalidades
+---
 
-Registro de áreas de plantio no banco de dados Oracle.
+## 💡 Funcionalidades
 
-Cálculo do percentual de preservação com base nas áreas total e plantada.
+- Registro de áreas de plantio no banco de dados Oracle.  
+- Cálculo do percentual de preservação com base nas áreas total e plantada.  
+- Classificação automática do risco ambiental.  
+- Geração de relatórios em formato JSON.
 
-Classificação automática do risco ambiental.
+---
 
-Geração de relatórios em formato JSON.
+## 🌾 Benefícios
 
-🌾 Benefícios
+- 👨‍🌾 **Agricultor:** evita multas e prejuízos mantendo a produção sustentável.  
+- 🏢 **Agronegócio:** adota práticas sustentáveis e conquista certificações ambientais.  
+- 🌎 **Meio ambiente:** preserva a biodiversidade e reduz o desmatamento.
 
-👨‍🌾 Agricultor: evita multas e prejuízos mantendo a produção sustentável.
-🏢 Agronegócio: adota práticas sustentáveis e conquista certificações ambientais.
-🌎 Meio ambiente: preserva a biodiversidade e reduz o desmatamento.*
 
 
 ## 📁 Estrutura de pastas
 
 DESMATAMENTO/
 ├── AgroDesmatamento/
-│   ├── principal.py            # Código principal do sistema
-│   └── relatorio_areas.json    # Relatório gerado com dados das áreas
-└── README.md                   # Descrição geral do projeto
+│ ├── principal.py # Código principal do sistema
+│ └── relatorio_areas.json # Relatório gerado com dados das áreas
+└── README.md # Descrição geral do projeto
 
 
 ## 🔧 Como executar o código
 
-*🧩 Pré-requisitos
+### 🧩 Pré-requisitos
 
-- Python 3.10+
+- Python 3.10 ou superior
 - Oracle Database
 
- Bibliotecas:
+### 📦 Bibliotecas necessárias
 
-- oracledb
-- pandas
-- json (nativa do Python)
-*
+- `oracledb`
+- `pandas`
+- `json` (nativa do Python)
 
 ## 📋 Licença
 
